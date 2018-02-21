@@ -1,0 +1,20 @@
+{
+  "name": "ngHelperBusy",
+  "version": "1.0.0",
+  "description": "This angularjs extension offers a full screen activity indicator based on CSS3 animations. To install the component in your existing angular app follow these steps:",
+  "main": "ngHelperBusy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephferris/ngHelperBusy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephferris/ngHelperBusy/issues"
+  },
+  "homepage": "https://github.com/josephferris/ngHelperBusy#readme"
+}
